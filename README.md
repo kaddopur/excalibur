@@ -1,4 +1,9 @@
 # Excalibur
+
+[![Build Status](https://img.shields.io/travis/kaddopur/excalibur.svg)](https://travis-ci.org/kaddopur/excalibur)
+[![Hex.pm version](https://img.shields.io/hexpm/v/excalibur.svg)](https://hex.pm/packages/excalibur)
+[![Hex.pm version](https://img.shields.io/hexpm/dt/excalibur.svg)](https://hex.pm/packages/excalibur)
+
 A modern Elixir utility library delivering modularity, performance &amp; extras.
 
 ## Installation
