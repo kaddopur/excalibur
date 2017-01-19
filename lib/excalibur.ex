@@ -1,18 +1,5 @@
 defmodule Excalibur do
   @moduledoc """
-  Documentation for Excalibur.
+  A modern Elixir utility library delivering modularity, performance & extras.
   """
-
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> Excalibur.hello
-      :world
-
-  """
-  def hello do
-    :world
-  end
 end
