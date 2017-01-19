@@ -31,7 +31,6 @@ defmodule Excalibur.Mixfile do
      files: ["lib", "mix.exs", "README*", "LICENSE*"],
      maintainers: ["Jason C. Huang"],
      licenses: ["MIT License"],
-     links: %{"GitHub" => "https://github.com/kaddopur/excalibur",
-              "Docs" => ""}]
+     links: %{"GitHub" => "https://github.com/kaddopur/excalibur"}]
   end
 end
