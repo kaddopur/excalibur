@@ -17,7 +17,7 @@ defmodule Excalibur.Mixfile do
   end
 
   defp deps do
-    []
+    [{:ex_doc, "~> 0.11", only: :dev}]
   end
 
   defp description do
